@@ -1,0 +1,92 @@
+*{margin: 0;
+    padding: 0;}
+    
+    
+    .banner{
+        height: 300px;
+        background-color: rgb(178, 110, 196);
+        color: azure;
+        text-align: center;
+    }
+
+    .about{
+        
+        background-color: rgb(219, 165, 233);
+        height: 600px;
+        display: flex;
+        border-color: blueviolet;
+        border-style: dotted;
+
+    }
+    .about_left{
+        background-color: rgb(195, 147, 207);
+        width:20%;
+        border-color: blueviolet;
+        border-style: dotted;
+        margin:2%;
+        
+    }
+    .about_right{
+        background-color: rgb(181, 136, 192);
+        margin:2%;
+        width:20%;
+        border-color: blueviolet;
+        border-style: dotted;
+        color:azure;
+        text-align: center;
+        
+
+    }
+    .about_right_one{
+        background-color: rgb(191, 142, 204);
+        height:30%;
+        border-bottom: dotted;
+        border-color: blueviolet;
+        }
+    
+    .about_right_two{
+        background-color: rgb(203, 149, 218);
+        border-bottom: dotted;
+        border-color: blueviolet;
+        height:70%;
+        margin-top: 2px;;
+    }
+    .about_middle{
+        background-color: rgb(110, 130, 184);
+        margin-top:2%;
+        margin-bottom: 2%;
+        width: 56%;
+        
+    }
+    .footer{
+        height: 50px;
+        background-color: rgb(178, 110, 196);
+        color: azure;
+        text-align: center;
+    }
+  .main_content_one{
+    
+    background-color: rgb(178, 110, 196);
+        height:30%;
+        border: dotted;
+        border-color: blueviolet;
+  }
+  .main_content_two{
+    display: flex;
+  }
+  .section_one{
+    width:50%;
+    height: 170px;
+    background-color: rgb(137, 36, 165);
+    margin: 1%;
+  }
+  .section_two{
+    width:50%;
+    height: 170px;
+    background-color: rgb(200, 99, 228);
+    margin: 1%;
+  }
+  .main_content_three{
+
+    display: flex;
+  }
